@@ -1,2 +1,2 @@
 gajini1,1234567890,gajini1_1234@gmail.com
-gajini2,0987654321,gajini2_1234@gmail.com
+gajini2,0987654321,gajini2_1234@gmail.comjersy,9989567856,jersy@gmail.com
